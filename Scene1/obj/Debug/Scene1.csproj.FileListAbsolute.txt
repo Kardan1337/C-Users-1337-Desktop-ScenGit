@@ -1,0 +1,10 @@
+C:\Users\1337\source\repos\Scene1\bin\Debug\Scene1.exe.config
+C:\Users\1337\source\repos\Scene1\bin\Debug\Scene1.exe
+C:\Users\1337\source\repos\Scene1\bin\Debug\Scene1.pdb
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.csprojAssemblyReference.cache
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.Form1.resources
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.Properties.Resources.resources
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.csproj.GenerateResource.cache
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.csproj.CoreCompileInputs.cache
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.exe
+C:\Users\1337\source\repos\Scene1\obj\Debug\Scene1.pdb
